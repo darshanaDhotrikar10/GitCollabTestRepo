@@ -1,0 +1,546 @@
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+Collaborator Enterprise version 14.4.14400
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+Build Number:14.4.14400.1
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+VM Max Memory: 3763863552
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+VM Current Memory: 228589568
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+Logging System Properties
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vendor:  Azul Systems, Inc.
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  com.microsoft.tfs.jni.native.base-directory:  C:\Program Files\Collaborator Client_new\/ui/plugins/com.smartbear.collaborator_14.4.14400/libs/native
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.sharedConfiguration.area.readOnly:  true
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.bundles.defaultStartLevel:  4
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.supports.framework.extension:  true
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.management.compiler:  HotSpot 64-Bit Tiered Compilers
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  exe4j.isInstall4j:  true
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  os.name:  Windows 11
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.boot.class.path:  c:\program files\zulu\zulu-8\jre\lib\resources.jar;c:\program files\zulu\zulu-8\jre\lib\rt.jar;c:\program files\zulu\zulu-8\jre\lib\sunrsasign.jar;c:\program files\zulu\zulu-8\jre\lib\jsse.jar;c:\program files\zulu\zulu-8\jre\lib\jce.jar;c:\program files\zulu\zulu-8\jre\lib\charsets.jar;c:\program files\zulu\zulu-8\jre\lib\jfr.jar;c:\program files\zulu\zulu-8\jre\lib\cat.jar;c:\program files\zulu\zulu-8\jre\classes
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.util.logging.config.file:  C:\Program Files\Collaborator Client_new\/ccollab.logging.properties
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  install4j.launcherId:  190
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.ws:  win32
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.desktop:  windows
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vm.specification.vendor:  Oracle Corporation
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  install4j.appDir:  C:\Program Files\Collaborator Client_new\
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.runtime.version:  1.8.0_372-b07
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.instance.area:  file:/C:/Users/darshana_dhotrikar/.smartbear/instance/
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.uuid:  b32697a3-027c-423b-8293-338525027f60
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.name:  darshana_dhotrikar
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.system.packages:  java.applet,java.awt,java.awt.color,java.awt.datatransfer,java.awt.dnd,java.awt.event,java.awt.font,java.awt.geom,java.awt.im,java.awt.im.spi,java.awt.image,java.awt.image.renderable,java.awt.print,java.beans,java.beans.beancontext,java.io,java.lang,java.lang.annotation,java.lang.instrument,java.lang.invoke,java.lang.management,java.lang.ref,java.lang.reflect,java.math,java.net,java.nio,java.nio.channels,java.nio.channels.spi,java.nio.charset,java.nio.charset.spi,java.nio.file,java.nio.file.attribute,java.nio.file.spi,java.rmi,java.rmi.activation,java.rmi.dgc,java.rmi.registry,java.rmi.server,java.security,java.security.acl,java.security.cert,java.security.interfaces,java.security.spec,java.sql,java.text,java.text.spi,java.time,java.time.chrono,java.time.format,java.time.temporal,java.time.zone,java.util,java.util.concurrent,java.util.concurrent.atomic,java.util.concurrent.locks,java.util.function,java.util.jar,java.util.logging,java.util.prefs,java.util.regex,java.util.spi,java.util.stream,java.util.zip,javax.accessibility,javax.activation,javax.activity,javax.annotation,javax.annotation.processing,javax.crypto,javax.crypto.interfaces,javax.crypto.spec,javax.imageio,javax.imageio.event,javax.imageio.metadata,javax.imageio.plugins.bmp,javax.imageio.plugins.jpeg,javax.imageio.spi,javax.imageio.stream,javax.jws,javax.jws.soap,javax.lang.model,javax.lang.model.element,javax.lang.model.type,javax.lang.model.util,javax.management,javax.management.loading,javax.management.modelmbean,javax.management.monitor,javax.management.openmbean,javax.management.relation,javax.management.remote,javax.management.remote.rmi,javax.management.timer,javax.naming,javax.naming.directory,javax.naming.event,javax.naming.ldap,javax.naming.spi,javax.net,javax.net.ssl,javax.print,javax.print.attribute,javax.print.attribute.standard,javax.print.event,javax.rmi,javax.rmi.CORBA,javax.rmi.ssl,javax.script,javax.security.auth,javax.security.auth.callback,javax.security.auth.kerberos,javax.security.auth.login,javax.security.auth.spi,javax.security.auth.x500,javax.security.cert,javax.security.sasl,javax.sound.midi,javax.sound.midi.spi,javax.sound.sampled,javax.sound.sampled.spi,javax.sql,javax.sql.rowset,javax.sql.rowset.serial,javax.sql.rowset.spi,javax.swing,javax.swing.border,javax.swing.colorchooser,javax.swing.event,javax.swing.filechooser,javax.swing.plaf,javax.swing.plaf.basic,javax.swing.plaf.metal,javax.swing.plaf.multi,javax.swing.plaf.nimbus,javax.swing.plaf.synth,javax.swing.table,javax.swing.text,javax.swing.text.html,javax.swing.text.html.parser,javax.swing.text.rtf,javax.swing.tree,javax.swing.undo,javax.tools,javax.transaction,javax.transaction.xa,javax.xml,javax.xml.bind,javax.xml.bind.annotation,javax.xml.bind.annotation.adapters,javax.xml.bind.attachment,javax.xml.bind.helpers,javax.xml.bind.util,javax.xml.crypto,javax.xml.crypto.dom,javax.xml.crypto.dsig,javax.xml.crypto.dsig.dom,javax.xml.crypto.dsig.keyinfo,javax.xml.crypto.dsig.spec,javax.xml.datatype,javax.xml.namespace,javax.xml.parsers,javax.xml.soap,javax.xml.stream,javax.xml.stream.events,javax.xml.stream.util,javax.xml.transform,javax.xml.transform.dom,javax.xml.transform.sax,javax.xml.transform.stax,javax.xml.transform.stream,javax.xml.validation,javax.xml.ws,javax.xml.ws.handler,javax.xml.ws.handler.soap,javax.xml.ws.http,javax.xml.ws.soap,javax.xml.ws.spi,javax.xml.ws.spi.http,javax.xml.ws.wsaddressing,javax.xml.xpath,org.ietf.jgss,org.omg.CORBA,org.omg.CORBA_2_3,org.omg.CORBA_2_3.portable,org.omg.CORBA.DynAnyPackage,org.omg.CORBA.ORBPackage,org.omg.CORBA.portable,org.omg.CORBA.TypeCodePackage,org.omg.CosNaming,org.omg.CosNaming.NamingContextExtPackage,org.omg.CosNaming.NamingContextPackage,org.omg.Dynamic,org.omg.DynamicAny,org.omg.DynamicAny.DynAnyFactoryPackage,org.omg.DynamicAny.DynAnyPackage,org.omg.IOP,org.omg.IOP.CodecFactoryPackage,org.omg.IOP.CodecPackage,org.omg.Messaging,org.omg.PortableInterceptor,org.omg.PortableInterceptor.ORBInitInfoPackage,org.omg.PortableServer,org.omg.PortableServer.CurrentPackage,org.omg.PortableServer.POAManagerPackage,org.omg.PortableServer.POAPackage,org.omg.PortableServer.portable,org.omg.PortableServer.ServantLocatorPackage,org.omg.SendingContext,org.omg.stub.java.rmi,org.w3c.dom,org.w3c.dom.bootstrap,org.w3c.dom.css,org.w3c.dom.events,org.w3c.dom.html,org.w3c.dom.ls,org.w3c.dom.ranges,org.w3c.dom.stylesheets,org.w3c.dom.traversal,org.w3c.dom.views,org.w3c.dom.xpath,org.xml.sax,org.xml.sax.ext,org.xml.sax.helpers
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.eclipse.swt.internal.deviceZoom:  100
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.language:  en
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.language:  en
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.processor:  x86-64
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ds.delayed.keepInstances.default:  true
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.compatibility.bootdelegation.default:  true
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.syspath:  c:\Program Files\Collaborator Client_new\ui\plugins
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.boot.library.path:  c:\program files\zulu\zulu-8\jre\bin
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.system.capabilities:  osgi.ee; osgi.ee="OSGi/Minimum"; version:List<Version>="1.0, 1.1, 1.2",osgi.ee; osgi.ee="JRE"; version:List<Version>="1.0, 1.1",osgi.ee; osgi.ee="JavaSE"; version:List<Version>="1.0, 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8",osgi.ee; osgi.ee="JavaSE/compact1"; version:List<Version>="1.8",osgi.ee; osgi.ee="JavaSE/compact2"; version:List<Version>="1.8",osgi.ee; osgi.ee="JavaSE/compact3"; version:List<Version>="1.8"
+DEBUG: Wed Oct 18 17:19:47 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.compatibility.bootdelegation:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.version:  1.8.0_372
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.os.name:  win32
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.timezone:  Asia/Calcutta
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.bundles:  org.eclipse.equinox.simpleconfigurator@1:start,org.eclipse.equinox.common@2:start,org.eclipse.update.configurator@3:start,org.eclipse.core.runtime@start
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.arch.data.model:  64
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.endorsed.dirs:  c:\program files\zulu\zulu-8\jre\lib\endorsed
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.tracefile:  C:\Users\darshana_dhotrikar\.smartbear\instance\.metadata\trace.log
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.cpu.isalist:  amd64
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.jnu.encoding:  Cp1252
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  eclipse.application:  com.smartbear.collaborator.ui.standalone.CollabGUIApp
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  file.encoding.pkg:  sun.io
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  equinox.init.uuid:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.vendor:  Eclipse
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  file.separator:  \
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.specification.name:  Java Platform API Specification
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.class.version:  52.0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.country:  US
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.configuration.cascaded:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.home:  c:\program files\zulu\zulu-8\jre
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.os:  win32
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  eclipse.commands:  
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vm.info:  mixed mode
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  os.version:  10.0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.arch:  x86_64
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.sharedConfiguration.area:  file:/C:/Program Files/Collaborator Client_new/ui/configuration/
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  path.separator:  ;
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vm.version:  25.372-b07
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.supports.framework.fragment:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.variant:  
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.framework.shape:  jar
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.awt.printerjob:  sun.awt.windows.WPrinterJob
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.io.unicode.encoding:  UnicodeLittle
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.version:  1.9.0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.storage:  C:\Users\darshana_dhotrikar\.smartbear\configuration
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.specification.maintenance.version:  4
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  awt.toolkit:  sun.awt.windows.WToolkit
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.script:  
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  eclipse.stateSaveDelayInterval:  30000
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.install.area:  file:/C:/Program Files/Collaborator Client_new/ui/
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.framework:  file:/C:/Program Files/Collaborator Client_new/ui/plugins/org.eclipse.osgi_3.15.300.v20200520-1959.jar
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.home:  C:\Users\darshana_dhotrikar
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.eclipse.equinox.simpleconfigurator.configUrl:  file:org.eclipse.equinox.simpleconfigurator/bundles.info
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.framework.useSystemProperties:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  exe4j.semaphoreName:  Local\c:_program_files_collaborator_client_new_ccollabgui.exe0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.nl:  en_US
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.specification.vendor:  Oracle Corporation
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.library.path:  c:\program files\zulu\zulu-8\jre\bin;C:\Program Files\Zulu\zulu-8\bin\;C:\Program Files\Zulu\zulu-17\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Maven\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Gradle\gradle-4.10.3\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\nodejs\;C:\Python27\Scripts;C:\Python27;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Perforce\Server\;C:\Program Files\Perforce\;C:\Program Files\Collaborator Client;C:\Program Files\Collaborator Client_oldchanges;C:\Program Files\Collaborator Client_newchanges;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Collaborator Client_updated;C:\Users\darshana_dhotrikar\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\darshana_dhotrikar\AppData\Local\Programs\Python\Python39\;C:\Users\darshana_dhotrikar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Zulu\zulu-8\bin;C:\Users\darshana_dhotrikar\AppData\Local\GitHubDesktop\bin;C:\Users\darshana_dhotrikar\AppData\Roaming\npm;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Amazon\AWSCLI\bin\aws.exe;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Users\darshana_dhotrikar\AppData\Local\Programs\Microsoft VS Code\bin;D:\CollabNewRepo\collab-core\tomcat;C:\Program Files\Collaborator Client_10.2
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vendor.url:  http://www.azul.com/
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  exe4j.consoleCodepage:  cp0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.os.version:  10.0.0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  eclipse.startTime:  1697629325795
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vm.vendor:  Azul Systems, Inc.
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  collab.install.dir:  C:\Program Files\Collaborator Client_new\
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.runtime.name:  OpenJDK Runtime Environment
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.java.command:  C:\Program Files\Collaborator Client_new\ccollabgui.exe
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.class.path:  C:\Program Files\Collaborator Client_new\.install4j\i4jruntime.jar;C:\Program Files\Collaborator Client_new\.\lib\activation-1.1.1.jar;C:\Program Files\Collaborator Client_new\.\lib\collab-cmdline-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\lib\collab-code-analysis-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\lib\commons-cli-2.0.553540.jar;C:\Program Files\Collaborator Client_new\.\lib\gwt-user-2.8.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\annotation-indexer-1.12.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\ant-1.6.5.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\apache-el-8.5.54.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\apache-jsp-8.5.54.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\apache-jsp-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\asm-9.5.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\asm-all-5.0.4.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\asm-analysis-9.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\asm-commons-9.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\asm-tree-9.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\asm-util-5.0.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\bndlib-2.3.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\bridge-method-annotation-1.14.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cdi-api-2.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collab-client-common-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collab-code-analysis-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collab-common-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collab-datamodel-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collab-scm-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collab-service-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collaborator-common-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\collaborator-json-api-14.4.14400.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\colt-1.2.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.filesystem.client-3.2.900.v20170426_1705.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.filesystem.common-3.2.900.v20170417_1239.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.foundation.common-1.3.4000.v20170324_0113.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.process.client-1.3.3000.v20170407_1725.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.process.common-1.3.4000.v20170429_0036.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.repository.client-1.3.3000.v20170317_2133.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.repository.common-1.4.4000.v20170503_1641.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.scm.client-3.2.900.v20170424_1700.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.scm.common-3.2.900.v20170424_1642.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.workitem.client-3.1.1600.v20170112_0127.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\com.ibm.team.workitem.common-3.2.800.v20170420_1657.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-beanutils-1.9.4.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-codec-1.11.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-collections-3.2.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-collections4-4.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-io-2.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-lang-2.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-lang3-3.9.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-logging-1.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-net-3.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\commons-text-1.8.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-core-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-bindings-soap-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-bindings-xml-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-databinding-jaxb-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-frontend-jaxws-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-frontend-simple-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-transports-http-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-ws-addr-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-ws-policy-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\cxf-rt-wsdl-3.5.6.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\dd-trace-api-1.15.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\dec-0.1.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\ecj-3.19.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\fontbox-2.0.24.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\geronimo-ws-metadata_2.0_spec-1.1.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\github-api-1.73.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\groovy-all-2.3.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\gson-2.6.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\guava-20.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\gwt-dev-2.8.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\gwt-user-2.8.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\htmlunit-2.37.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\htmlunit-core-js-2.37.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\htmlunit-cssparser-1.5.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\httpclient-4.5.14.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\httpcore-4.4.16.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\httpmime-4.5.14.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\ical4j-2.0.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\icu4j-50.1.1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\istack-commons-runtime-3.0.12.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jackson-annotations-2.14.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jackson-core-2.14.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jackson-databind-2.14.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jackson-module-mrbean-2.14.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jakarta.activation-1.2.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jakarta.activation-api-1.2.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jakarta.xml.bind-api-2.3.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\java-gitlab-api-4.0.1.smartbear.8.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javassist-3.18.1-GA.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javax.activation-api-1.2.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javax.annotation-api-1.3.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javax.el-api-3.0.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javax.inject-1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javax.interceptor-api-1.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javax.servlet-api-3.1.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\javax.xml.soap-api-1.4.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jaxb-api-2.3.1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jaxb-runtime-2.3.5.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jaxws-api-2.3.1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-annotations-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-client-9.4.26.v20200117.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-continuation-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-http-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-io-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-jndi-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-plus-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-schemas-3.1.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-security-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-server-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-servlet-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-servlets-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-util-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-util-ajax-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-webapp-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jetty-xml-9.4.41.v20210516.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jsinterop-annotations-1.0.2-sources.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jsinterop-annotations-1.0.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\json-20090211.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\json-simple-1.1.1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jsr173-1.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jsr305-3.0.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\junit-3.8.1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\jzlib-1.1.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\markdownj-core-0.4.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\mixpanel-java-1.4.4.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\mksapi-jar-4.13.5479.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\msgpack-0.6.11.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\neethi-3.2.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\neko-htmlunit-2.37.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\okhttp-2.7.5.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\okhttp-urlconnection-2.7.5.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\okio-1.6.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\org.eclipse.equinox.common-3.10.300.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\org.eclipse.osgi-3.13.300-custom.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\org.osgi.core-4.3.1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\p4java-2014.1.965322.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\pdfbox-2.0.24.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\sac-1.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\serializer-2.7.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\slf4j-api-1.7.10.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\stax2-api-4.2.1.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\super-csv-2.3.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\svn-javahl-api-1.6.18-v2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\tapestry-4.0.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\txw2-2.3.5.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\validation-api-1.0.0.GA-sources.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\validation-api-1.0.0.GA.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\vault_client_api-1.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\websocket-api-9.4.26.v20200117.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\websocket-client-9.4.26.v20200117.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\websocket-common-9.4.26.v20200117.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\woodstox-core-6.4.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\ws-commons-util-1.0.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\wsdl4j-1.6.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xalan-2.7.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xercesImpl-2.12.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xml-apis-1.4.01.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xml-resolver-1.2.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xmlrpc-client-3.1.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xmlrpc-common-3.1.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xmlrpc-server-3.1.3.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\xmlschema-core-2.3.0.jar;C:\Program Files\Collaborator Client_new\.\ui\plugins\com.smartbear.collaborator_14.4.14400\zzz-com.microsoft.tfs.sdk-11.0.0-custom.jar
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ds.delayed.keepInstances:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  exe4j.tempDir:  
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vm.specification.name:  Java Virtual Machine Specification
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  exe4j.moduleName:  C:\Program Files\Collaborator Client_new\ccollabgui.exe
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vm.specification.version:  1.8
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.cpu.endian:  little
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  sun.os.patch.level:  
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  gosh.args:  --nointeractive
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.io.tmpdir:  C:\Users\DARSHA~1\AppData\Local\Temp\
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vendor.url.bug:  http://www.azul.com/support/
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  eclipse.home.location:  file:/C:/Program Files/Collaborator Client_new/ui/
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  os.arch:  amd64
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.awt.graphicsenv:  sun.awt.Win32GraphicsEnvironment
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  exe4j.launchName:  C:\Program Files\Collaborator Client_new\ccollabgui.exe
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.ext.dirs:  c:\program files\zulu\zulu-8\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  user.dir:  C:\Program Files\Collaborator Client_new
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.supports.framework.requirebundle:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  exe4j.unextractedPosition:  0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  line.separator:  
+
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.vm.name:  OpenJDK 64-Bit Server VM
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  jdk.vendor.version:  Zulu 8.70.0.23-CA-win64
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  file.encoding:  Cp1252
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  install4j.swt:  true
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  install4j.exeDir:  C:\Program Files\Collaborator Client_new\
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  java.specification.version:  1.8
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.user.area:  file:/C:/Users/darshana_dhotrikar/.smartbear/user/
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  org.osgi.framework.executionenvironment:  OSGi/Minimum-1.0,OSGi/Minimum-1.1,OSGi/Minimum-1.2,JavaSE/compact1-1.8,JavaSE/compact2-1.8,JavaSE/compact3-1.8,JRE-1.1,J2SE-1.2,J2SE-1.3,J2SE-1.4,J2SE-1.5,JavaSE-1.6,JavaSE-1.7,JavaSE-1.8
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.logfile:  C:\Users\darshana_dhotrikar\.smartbear\instance\.metadata\.log
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  osgi.configuration.area:  file:/C:/Users/darshana_dhotrikar/.smartbear/configuration/
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+Logging environment variables.
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  USERDOMAIN_ROAMINGPROFILE:  PERSISTENT
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  PROCESSOR_LEVEL:  6
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  M2:  D:\Maven\apache-maven-3.6.3\bin
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  SESSIONNAME:  Console
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ALLUSERSPROFILE:  C:\ProgramData
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  PROCESSOR_ARCHITECTURE:  AMD64
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  PSModulePath:  C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  SystemDrive:  C:
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  USERNAME:  darshana_dhotrikar
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  USERDNSDOMAIN:  PERSISTENT.CO.IN
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ProgramFiles(x86):  C:\Program Files (x86)
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  FPS_BROWSER_USER_PROFILE_STRING:  Default
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  PATHEXT:  .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  DriverData:  C:\Windows\System32\Drivers\DriverData
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  EFC_4648:  0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ProgramData:  C:\ProgramData
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ProgramW6432:  C:\Program Files
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  __PSLockDownPolicy:  0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  HOMEPATH:  \Users\darshana_dhotrikar
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  PROCESSOR_IDENTIFIER:  Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  M2_HOME:  D:\Maven\apache-maven-3.6.3
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ProgramFiles:  C:\Program Files
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  PUBLIC:  C:\Users\Public
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  windir:  C:\WINDOWS
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  =:::  ::\
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ZES_ENABLE_SYSMAN:  1
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  OneDriveCommercial:  C:\Users\darshana_dhotrikar\OneDrive - Persistent Systems Limited
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  LOCALAPPDATA:  C:\Users\darshana_dhotrikar\AppData\Local
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  USERDOMAIN:  PERSISTENT
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  FPS_BROWSER_APP_PROFILE_STRING:  Internet Explorer
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  LOGONSERVER:  \\HJDC
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  JAVA_HOME:  C:\Program Files\Zulu\zulu-8
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  OneDrive:  C:\Users\darshana_dhotrikar\OneDrive - Persistent Systems Limited
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  APPDATA:  C:\Users\darshana_dhotrikar\AppData\Roaming
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  BITBUCKET_HOME:  D:\BitBucketServer\atlassian-bitbucket-8.14.0
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  CommonProgramFiles:  C:\Program Files\Common Files
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  Path:  c:\program files\zulu\zulu-8\jre\bin;C:\Program Files\Zulu\zulu-8\bin\;C:\Program Files\Zulu\zulu-17\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Maven\apache-maven-3.6.3\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Gradle\gradle-4.10.3\bin;C:\Program Files (x86)\Git\cmd;C:\Program Files\nodejs\;C:\Python27\Scripts;C:\Python27;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\PuTTY\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Perforce\Server\;C:\Program Files\Perforce\;C:\Program Files\Collaborator Client;C:\Program Files\Collaborator Client_oldchanges;C:\Program Files\Collaborator Client_newchanges;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Collaborator Client_updated;C:\Users\darshana_dhotrikar\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\darshana_dhotrikar\AppData\Local\Programs\Python\Python39\;C:\Users\darshana_dhotrikar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Zulu\zulu-8\bin;C:\Users\darshana_dhotrikar\AppData\Local\GitHubDesktop\bin;C:\Users\darshana_dhotrikar\AppData\Roaming\npm;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Amazon\AWSCLI\bin\aws.exe;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Users\darshana_dhotrikar\AppData\Local\Programs\Microsoft VS Code\bin;D:\CollabNewRepo\collab-core\tomcat;C:\Program Files\Collaborator Client_10.2
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  OS:  Windows_NT
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  COMPUTERNAME:  HJNZL000429
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  CATALINA_HOME:  D:\CollabNewRepo\collab-core\tomcat
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  PROCESSOR_REVISION:  8e0c
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  CLASSPATH:  C:\Program Files\Zulu\zulu-8\lib
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  CommonProgramW6432:  C:\Program Files\Common Files
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  ComSpec:  C:\WINDOWS\system32\cmd.exe
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  UATDATA:  C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  STTASKFOLDERPATH:  Ivanti\PatchSDK\Deployments
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  SystemRoot:  C:\WINDOWS
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  TEMP:  C:\Users\DARSHA~1\AppData\Local\Temp
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  HOMEDRIVE:  C:
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  USERPROFILE:  C:\Users\darshana_dhotrikar
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  TMP:  C:\Users\DARSHA~1\AppData\Local\Temp
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  CommonProgramFiles(x86):  C:\Program Files (x86)\Common Files
+DEBUG: Wed Oct 18 17:19:48 IST 2023: com.smartbear.collaborator.ui.debug.DebugWindow
+  NUMBER_OF_PROCESSORS:  8
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.collaborator.ui.standalone.addtoreview.DefaultAddToReviewButtonFactory
+Running 'Add Submitted Changelists...'
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.collaborator.ui.standalone.addtoreview.DefaultAddToReviewButtonFactory
+Using ScmConfig with Path = 'C:\Users\darshana_dhotrikar\Perforce\darshana_dhotrikar_HJNZL000429_9712\darshana_dhotrikar_HJNZL000429_9712', Options = ScmOptions: {
+   current-directory = C:\Users\darshana_dhotrikar\Perforce\darshana_dhotrikar_HJNZL000429_9712\darshana_dhotrikar_HJNZL000429_9712
+   global-provider = perforce
+   scm = perforce
+
+   (AccuRev only)
+      accurev-depot = (Empty)
+      accurev-exe = accurev
+      accurev-anc-algorithm = (Empty)
+
+   (ClearCase only)
+      ccrc-server-url = (Empty)
+      ccrc-user = (Empty)
+      ccrc-passwd = (Empty)
+      clearcase-exe = (Empty)
+      clearcase-update-snapshot = false
+      clearcase-view-directory = (Empty)
+
+   (CVS only)
+      cvs-exe = cvs
+      cvsroot = (Empty)
+
+   (Git only)
+      git-exe = (Empty)
+      git-repository = (Empty)
+      git-skip-index = false
+
+   (Mercurial only)
+      mercurial-exe = hg
+
+   (Perforce only)
+      p4 = C:\Program Files\Perforce\p4.exe
+      p4port = localhost:1666
+      p4user = darshana_dhotrikar
+      p4passwd = (password value hidden)
+      p4client = darshana_dhotrikar_HJNZL000429_9712
+      p4-ignore-integration-history = false
+      p4-protects-script = (Empty)
+      p4charset = (Empty)
+      p4-require-empty-default-changelist = false
+      p4-change-content-trigger = false
+      p4-specify-command-charset = true
+      p4-test-p4java = false
+
+   (PTC Integrity only)
+      mks-host = (Empty)
+      mks-port = (Empty)
+      mks-user = (Empty)
+      mks-passwd = (Empty)
+      mks-expand-keywords = true
+
+   (Rational Synergy only)
+      ccm-exe = ccm
+      ccm-user = (Empty)
+      ccm-passwd = (Empty)
+      ccm-engine-host = (Empty)
+      ccm-database-path = (Empty)
+      ccm-local-database-path = (Empty)
+      ccm-remote-client = false
+      ccm-server-url = (Empty)
+
+   (Rational Team Concert only)
+      rtc-repository-uri = (Empty)
+      rtc-username = (Empty)
+      rtc-password = (Empty)
+      add-assignments = (Empty)
+      remove-assignments = (Empty)
+      approve-assignments = (Empty)
+      rtc-impl = (Empty)
+
+   (StarTeam only)
+      stcmd-exe = stcmd
+
+   (Subversion only)
+      svn-exe = svn
+      svn-look-exe = (Empty)
+      svn-repo-url = (Empty)
+      svn-user = (Empty)
+      svn-passwd = (Empty)
+      svn-require-client-certificate-password = false
+      svn-auto-add = false
+      svn-recurse-externals = false
+      repo = (Empty)
+      svn-repo-path = (Empty)
+      svn-test-javahl = false
+
+   (Surround SCM only)
+      surround-exe = sscm
+      surround-server = (Empty)
+      surround-single-sign-on = false
+      surround-user = (Empty)
+      surround-passwd = (Empty)
+
+   (Team Foundation Server only)
+      tfs-collection = (Empty)
+      tfs-user = (Empty)
+      tfs-passwd = (Empty)
+
+   (Vault only)
+      vault-profile = (Empty)
+      vault-server = (Empty)
+      vault-repo = (Empty)
+      vault-user = (Empty)
+      vault-passwd = (Empty)
+      vault-proxy-domain = (Empty)
+      vault-proxy-server = (Empty)
+      vault-proxy-port = (Empty)
+      vault-proxy-user = (Empty)
+      vault-proxy-passwd = (Empty)
+      vault-fortress-mode = false
+
+   (Visual SourceSafe only)
+      vss-passwd = (Empty)
+      vss-exe = (Empty)
+      vss-user = (Empty)
+
+}
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.collaborator.ui.standalone.addtoreview.DefaultAddToReviewButtonFactory
+Using Perforce clientConfig instance: Server Address=localhost:1666; P4CLIENT=darshana_dhotrikar_HJNZL000429_9712
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.impl.newp4.P4ClientConf
+P4ConnectionInfo[clientUnknown=false,userName=darshana_dhotrikar,clientName=darshana_dhotrikar_HJNZL000429_9712,clientHost=HJNZL000429,clientRoot=C:\Users\darshana_dhotrikar\Perforce\darshana_dhotrikar_HJNZL000429_9712,currentDirectory=c:\Program Files\Collaborator Client_new,clientAddress=127.0.0.1,serverAddress=dev.operativeone.com:1666,serverRoot=C:\Program Files\P4Root\,serverDate=2023/10/18 17:12:18 +0530 India Standard Time,serverVersion=PerforceExeVersionSpec[product=P4D,platform=NTX64,release=2023.1,build=2442900,dateStamp=2023/05/15,rawSpec=P4D/NTX64/2023.1/2442900 (2023/05/15)],serverLicense=none,caseHandling=insensitive]
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.impl.newp4.P4ClientConf
+P4ClientSpec[access=2023/10/12 17:16:13,client=darshana_dhotrikar_HJNZL000429_9712,description=Created by darshana_dhotrikar.
+,host=HJNZL000429,lineEnd=local,options=noallwrite noclobber nocompress unlocked nomodtime normdir noaltsync,isLocked=false,owner=darshana_dhotrikar,root=C:\Users\darshana_dhotrikar\Perforce\darshana_dhotrikar_HJNZL000429_9712,submitOptions=submitunchanged,update=2023/08/18 11:31:10,view=[//streamsDepot/mainline/... //darshana_dhotrikar_HJNZL000429_9712/...]]
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+1 CommandLine: [C:\Program Files\Perforce\p4.exe, -G, counters]
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+1 working directory: null
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+1 env: {P4EDITOR=C:\WINDOWS\system32\Notepad.exe, P4PASSWD=HIDDEN: 993f4b45e289e066bcaf541f430c1abc, P4CONFIG="", P4PORT=localhost:1666, P4USER=darshana_dhotrikar, P4COMMANDCHARSET=utf8, P4_localhost:1666_CHARSET=none, P4CLIENT=darshana_dhotrikar_HJNZL000429_9712, P4LANGUAGE=forceBuiltinEnglishByUsingUnrecognized, P4ENVIRO=""}
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.impl.newp4.cli.P4DashGParser
+[{code=stat, counter=change, value=56}, {code=stat, counter=graphDepotRefcountState, value=0}, {code=stat, counter=maxCommitChange, value=56}, {code=stat, counter=upgrade, value=50}]
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+1 contents of stdin:
+
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+1 contents of stdout:
+00000000 7b7304000000636f 6465730400000073
+00000010 7461747307000000 636f756e74657273
+00000020 060000006368616e 6765730500000076
+00000030 616c756573020000 003536307b730400
+00000040 0000636f64657304 0000007374617473
+00000050 07000000636f756e 7465727317000000
+00000060 6772617068446570 6f74526566636f75
+00000070 6e74537461746573 0500000076616c75
+00000080 6573010000003030 7b7304000000636f
+00000090 6465730400000073 7461747307000000
+000000a0 636f756e74657273 0f0000006d617843
+000000b0 6f6d6d6974436861 6e67657305000000
+000000c0 76616c7565730200 00003536307b7304
+000000d0 000000636f646573 0400000073746174
+000000e0 7307000000636f75 6e74657273070000
+000000f0 0075706772616465 730500000076616c
+00000100 7565730200000035 3030
+
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+1 contents of stderr:
+
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+1 exit code: 0
+DEBUG: Wed Oct 18 17:19:56 IST 2023: com.smartbear.scm.impl.newp4.P4ClientConf
+{maxCommitChange=56, upgrade=50, change=56, graphDepotRefcountState=0}
+ERROR: Wed Oct 18 17:20:05 IST 2023: com.smartbear.collaborator.ui
+Inside commit id range2023-00-012023-59-18
+DEBUG: Wed Oct 18 17:20:05 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+2 CommandLine: [C:\Program Files\Perforce\p4.exe, -G, changes, -l, -c, darshana_dhotrikar_HJNZL000429_9712, -u, darshana_dhotrikar, -s, submitted, @2023-00-01,2023-59-18]
+DEBUG: Wed Oct 18 17:20:05 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+2 working directory: null
+DEBUG: Wed Oct 18 17:20:05 IST 2023: com.smartbear.scm.cmd.impl.DebugCommandRunner
+2 env: {P4EDITOR=C:\WINDOWS\system32\Notepad.exe, P4PASSWD=HIDDEN: 993f4b45e289e066bcaf541f430c1abc, P4CONFIG="", P4PORT=localhost:1666, P4USER=darshana_dhotrikar, P4COMMANDCHARSET=utf8, P4_localhost:1666_CHARSET=none, P4CLIENT=darshana_dhotrikar_HJNZL000429_9712, P4LANGUAGE=forceBuiltinEnglishByUsingUnrecognized, P4ENVIRO=""}
+DEBUG: Wed Oct 18 17:20:05 IST 2023: com.smartbear.scm.impl.newp4.cli.P4DashGParser
+[{severity=3, code=error, data=Invalid changelist/client/label/date '@2023-00-01'.
+, generic=4}]
+ERROR: Wed Oct 18 17:20:06 IST 2023: com.smartbear.collaborator.ui
+Error loading changelist IDs
+java.lang.reflect.InvocationTargetException
+	at com.smartbear.collaborator.ui.wizards.SubmittedChangelistsSelectionUpdatedPage$1.run(SubmittedChangelistsSelectionUpdatedPage.java:211)
+	at com.smartbear.collaborator.ui.wizards.ProgressWizardDialog$2.run(ProgressWizardDialog.java:158)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: com.smartbear.cmdline.ScmCommunicationException: Error from Perforce: {code="error", data="Invalid changelist/client/label/date '@2023-00-01'.
+", severity="3", generic="4"}
+	at com.smartbear.scm.impl.newp4.cli.P4DashGParser.checkErrors(P4DashGParser.java:192)
+	at com.smartbear.scm.impl.newp4.cli.P4DashGParser.parse(P4DashGParser.java:182)
+	at com.smartbear.scm.impl.newp4.cli.P4ChangesCmd.handleStdOut(P4ChangesCmd.java:89)
+	at com.smartbear.scm.cmd.impl.ScmStreamCmdAdapter.handleStdOut(ScmStreamCmdAdapter.java:25)
+	at com.smartbear.scm.cmd.impl.DebugCommandRunner$DebugCmdWrapper.handleStdOut(DebugCommandRunner.java:181)
+	at com.smartbear.scm.cmd.impl.CommandRunner$2.run(CommandRunner.java:151)
+	at com.smartbear.scm.cmd.impl.CommandRunner$2.run(CommandRunner.java:148)
+	at com.smartbear.scm.cmd.impl.CommandRunner$StreamHandler.call(CommandRunner.java:225)
+	at com.smartbear.scm.cmd.impl.CommandRunner$StreamHandler.call(CommandRunner.java:215)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
